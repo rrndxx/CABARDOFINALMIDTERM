@@ -1,0 +1,156 @@
+body{
+    background-color: rgba(239,182,77,255);
+    color: black;
+}
+.menu{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 4%;
+}
+.acc{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 20%;
+}
+.cart{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 38%;
+}
+.bg1{
+    position: absolute;
+    top: -4%;
+    right: -4%;
+    height: 400px;
+    width: 420px;
+    border-radius: 10%;
+    background-color: rgba(200,52,52,255) ;
+}
+.img1{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 15%;
+    left: 15%;
+}
+.bg2{
+    position: absolute;
+    top: 55%;
+    left: -4%;
+    height: 170px;
+    width: 520px;
+    border-radius: 10%;
+    background-color: rgba(221,152,24,255) ;
+}
+.img2{
+    position: absolute;
+    height: 100px;
+    width: 120px;
+    top: 22%;
+    left: 15%;
+}
+.img3{
+    position: absolute;
+    height: 100px;
+    width: 120px;
+    top: 22%;
+    left: 43%;
+}
+.sale1{
+    position: absolute;
+    height: 130px;
+    width: 230px;
+    top: 58%;
+    right: 6%;
+    border-radius: 10%;
+    background-color: rgba(255,206,15,255);
+}
+.saletext{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 6%;
+}
+.percent{
+    color: red;
+}
+.img4{
+    position: absolute;
+    height: 120px;
+    width: 140px;
+    top: 51%;
+    right: 11%;
+}
+.bg3{
+    position: absolute;
+    top: 80%;
+    left: -4%;
+    height: 400px;
+    width: 420px;
+    border-radius: 10%;
+    background-color: rgb(200,52,52) ;
+}
+.img5{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 15%;
+    left: 15%;
+}
+.kfc{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+}
+.kfc1{
+    color: rgba(200,52,52,255);
+    font-family: "Rubik Mono One";
+    font-size: 45px;
+    letter-spacing: 2%;
+}
+.f{
+    position: absolute;
+    top: 50%;
+}
+.c1{
+    position: absolute;
+    height: 120x;
+    width: 170px;
+    top: 19%;
+    left: 19.5%;
+    rotate: 5deg;
+}
+.cc1{
+    position: absolute;
+    width: 280px;
+    rotate: 12deg;
+    top: 25%;
+    left: 5%;
+    letter-spacing: 7px;
+}
+.ccc1{
+    color: yellow;
+    background-color: rgb(200,52,52);
+    text-align: center;
+    font-family: "Rubik Moonrocks";
+    font-size: 45px;
+}
+.ordernowbg{
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    border-radius: 10%;
+    background-color: rgba(230,130,52,255);
+    top: 42%;
+    left: 10%;
+}
+.ordernow{
+    position: absolute;
+    color: white;
+    top: 42%;
+}
