@@ -1,0 +1,133 @@
+body{
+    background-color: rgba(239,182,77,255);
+    color: black;
+}
+.menu{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 4%;
+}
+.acc{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 20%;
+}
+.cart{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 2%;
+    left: 38%;
+}
+.bg1{
+    position: absolute;
+    top: 13%;
+    right: 5%;
+    height: 340px;
+    width: 350px;
+    border-radius: 10%;
+    background-color: rgba(200,52,52,255) ;
+}
+.img1{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 15%;
+    left: 15%;
+}
+.bg2{
+    position: absolute;
+    top: 68%;
+    left: 5%;
+    height: 340px;
+    width: 350px;
+    border-radius: 10%;
+    background-color: rgb(200,52,52) ;
+}
+.img2{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 12%;
+    left: 12%;
+}
+.bg3{
+    position: absolute;
+    top: 123%;
+    right: 5%;
+    height: 340px;
+    width: 350px;
+    border-radius: 10%;
+    background-color: rgba(200,52,52,255) ;
+}
+.img3{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 15%;
+    left: 15%;
+}
+.bg4{
+    position: absolute;
+    top: 178%;
+    left: 5%;
+    height: 340px;
+    width: 350px;
+    border-radius: 10%;
+    background-color: rgb(200,52,52) ;
+}
+.img4{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 12%;
+    left: 12%;
+}
+.addcart1{
+    position: absolute;
+    height: 35px;
+    width: 45px;
+    top: 85%;
+    left: 5%;
+}
+.addcart2{
+    position: absolute;
+    height: 35px;
+    width: 45px;
+    top: 85%;
+    right: 5%;
+}
+.footer{
+    position: absolute;
+    width: auto;
+    height: 50px;
+    background-color: rgba(239,182,77,255);
+    top: 230%;
+}
+.c3{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.c4{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 155%;
+}
+.c5{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 175%;
+}
+.c6{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 195%;
+}

@@ -27,7 +27,7 @@ body{
     position: absolute;
     top: -4%;
     right: -4%;
-    height: 400px;
+    height: 430px;
     width: 420px;
     border-radius: 10%;
     background-color: rgba(200,52,52,255) ;
@@ -90,16 +90,16 @@ body{
     position: absolute;
     top: 80%;
     left: -4%;
-    height: 400px;
+    height: 500px;
     width: 420px;
     border-radius: 10%;
     background-color: rgb(200,52,52) ;
 }
 .img5{
     position: absolute;
-    height: 300px;
+    height: 380px;
     width: 300px;
-    top: 15%;
+    top: 12%;
     left: 15%;
 }
 .kfc{
@@ -113,10 +113,6 @@ body{
     font-size: 45px;
     letter-spacing: 2%;
 }
-.f{
-    position: absolute;
-    top: 50%;
-}
 .c1{
     position: absolute;
     height: 120x;
@@ -128,17 +124,19 @@ body{
 .cc1{
     position: absolute;
     width: 280px;
-    rotate: 12deg;
-    top: 25%;
-    left: 5%;
+    rotate: 8deg;
+    top: 22%;
+    left: 2.5%;
     letter-spacing: 7px;
+    padding: 20px;
 }
 .ccc1{
-    color: yellow;
+    color: rgb(255,206,15);
     background-color: rgb(200,52,52);
     text-align: center;
     font-family: "Rubik Moonrocks";
     font-size: 45px;
+    padding: 8px;
 }
 .ordernowbg{
     position: absolute;
@@ -152,5 +150,131 @@ body{
 .ordernow{
     position: absolute;
     color: white;
-    top: 42%;
+    top: 41%;
+    left: 13%;
+}
+.pp{
+    position: absolute;
+    height: 115px;
+    top: 84%;
+    right: 17%;
+}
+.c2{
+    position: absolute;
+    height: 120x;
+    width: 170px;
+    top: 91%;
+    right: 8%;
+    rotate: 5deg;
+}
+.cc2{
+    position: absolute;
+    width: 280px;
+    rotate: 8deg;
+    top: 95%;
+    right: 7%;
+    letter-spacing: 7px;
+    padding: 20px;
+}
+.ccc2{
+    color: rgb(255,206,15);
+    background-color: rgb(200,52,52);
+    text-align: center;
+    font-family: "Rubik Moonrocks";
+    font-size: 45px;
+    padding: 8px;
+}
+.enjoy{
+    position: absolute;
+    font-family: "Montserrat";
+    font-weight: 500;
+    top: 115%;
+    right: 7%;
+}
+.bg4{
+    position: absolute;
+    top: 150%;
+    right: -4%;
+    height: 170px;
+    width: 520px;
+    border-radius: 10%;
+    background-color: rgba(221,152,24,255) ;
+}
+.img6{
+    position: absolute;
+    height: 100px;
+    width: 120px;
+    top: 22%;
+    left: 35%;
+}
+.img7{
+    position: absolute;
+    height: 100px;
+    width: 120px;
+    top: 22%;
+    left: 63%;
+}
+.iop{
+    position: absolute;
+    color: rgb(200,52,52,255);
+    left: 5%;
+    top: 153%;
+    font-weight: 1000;
+}
+.contact{
+    position: absolute;
+    color: white;
+    left: 16%;
+    top: 153%;
+    font-weight: 1000;
+}
+.ordernowbg2{
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    border-radius: 10%;
+    background-color: rgba(230,130,52,255);
+    top: 165%;
+    left: 12%;
+}
+.contactus{
+    position: absolute;
+    color: white;
+    top: 164%;
+    left: 16%;
+}
+hr{
+    position: absolute;
+    color: gray;
+    top: 178%;
+}
+.footer{
+    position: absolute;
+    width: auto;
+    height: 50px;
+    background-color: rgba(239,182,77,255);
+    top: 185%;
+}
+.c3{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.c4{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 155%;
+}
+.c5{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 175%;
+}
+.c6{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 195%;
 }
