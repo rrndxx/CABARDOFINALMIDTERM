@@ -41,7 +41,7 @@ body{
 }
 .bg2{
     position: absolute;
-    top: 68%;
+    top: 63%;
     left: 5%;
     height: 340px;
     width: 350px;
@@ -57,7 +57,7 @@ body{
 }
 .bg3{
     position: absolute;
-    top: 123%;
+    top: 118%;
     right: 5%;
     height: 340px;
     width: 350px;
@@ -73,7 +73,7 @@ body{
 }
 .bg4{
     position: absolute;
-    top: 178%;
+    top: 168%;
     left: 5%;
     height: 340px;
     width: 350px;
@@ -101,12 +101,53 @@ body{
     top: 85%;
     right: 5%;
 }
+.desc1bg{
+    position: absolute;
+    height: 170px;
+    width: 280px;
+    border-radius: 10%;
+    background-color: rgb(255,206,15);
+    top: 15%;
+    left: 5%;
+}
+.desc11{
+    color: rgba(200,52,52,255);
+    font-family: "Rubik Mono One";
+    font-size: 45px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.c1{
+    position: absolute;
+    height: 120x;
+    width: 170px;
+    top: 75%;
+    left: 31%;
+    rotate: 5deg;
+}
+.cc1{
+    position: absolute;
+    width: 219px;
+    rotate: 8deg;
+    top: 94%;
+    left: 2.5%;
+    letter-spacing: 7px;
+    padding: 20px;
+}
+.ccc1{
+    color: rgb(255,206,15);
+    background-color: rgb(200,52,52);
+    text-align: center;
+    font-family: "Rubik Moonrocks";
+    font-size: 45px;
+    padding: 8px;
+}
 .footer{
     position: absolute;
     width: auto;
     height: 50px;
     background-color: rgba(239,182,77,255);
-    top: 230%;
+    top: 225%;
 }
 .c3{
     position: absolute;
