@@ -23,6 +23,27 @@ body{
     top: 2%;
     left: 38%;
 }
+.search{
+    position: absolute;
+    background-color: rgb(198,136,22);
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 450px;
+    margin-top: 3px;
+    text-align: center;
+    font-weight: 1000;
+    padding-top: 10px;
+    padding-right: 130px;
+}
+.searchicon{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 2.5%;
+    left: 57.5%;
+}
 .bg1{
     position: absolute;
     top: 13%;
