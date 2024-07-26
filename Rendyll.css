@@ -138,20 +138,18 @@ body{
     font-size: 45px;
     padding: 8px;
 }
-.ordernowbg{
-    position: absolute;
-    height: 60px;
-    width: 200px;
-    border-radius: 10%;
-    background-color: rgba(230,130,52,255);
-    top: 42%;
-    left: 10%;
-}
 .ordernow{
     position: absolute;
+    background-color: #e68234;
     color: white;
-    top: 41%;
-    left: 13%;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-top: 346px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
 }
 .pp{
     position: absolute;
@@ -228,20 +226,18 @@ body{
     top: 153%;
     font-weight: 1000;
 }
-.ordernowbg2{
-    position: absolute;
-    height: 40px;
-    width: 150px;
-    border-radius: 10%;
-    background-color: rgba(230,130,52,255);
-    top: 165%;
-    left: 12%;
-}
 .contactus{
     position: absolute;
+    background-color: #e68234;
     color: white;
-    top: 164%;
-    left: 16%;
+    width: 100px;
+    height: 25px;
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-top: 1360px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 12px;
 }
 hr{
     position: absolute;

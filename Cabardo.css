@@ -142,6 +142,53 @@ body{
     font-size: 45px;
     padding: 8px;
 }
+.desc2bg{
+    position: absolute;
+    height: 170px;
+    width: 280px;
+    border-radius: 10%;
+    background-color: rgb(255,206,15);
+    top: 65%;
+    right: 5%;
+}
+.desc22{
+    color: rgba(200,52,52,255);
+    font-family: "Rubik Mono One";
+    font-size: 45px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.c2{
+    position: absolute;
+    height: 120x;
+    width: 170px;
+    top: 75%;
+    left: 31%;
+    rotate: 5deg;
+}
+.cc2{
+    position: absolute;
+    width: 219px;
+    rotate: 8deg;
+    top: 94%;
+    left: 2.5%;
+    letter-spacing: 7px;
+    padding: 20px;
+}
+.ccc2{
+    color: rgb(255,206,15);
+    background-color: rgb(200,52,52);
+    text-align: center;
+    font-family: "Rubik Moonrocks";
+    font-size: 45px;
+    padding: 8px;
+}
+.a1{
+    top: 120%;
+}
+.a2{
+    top: 170%;
+}
 .footer{
     position: absolute;
     width: auto;
